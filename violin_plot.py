@@ -61,4 +61,4 @@ def data2violin(file, color='Blues'):
 
 
 
-data2violin('D:/Medical Epigenomics/Internship/python_test.xlsx', 'Reds')
+data2violin('P:/shared_spaces/WetLab/Magdalena Unterberger/Miura protocol/PS8/Results-AW1.xlsx', 'Reds')
